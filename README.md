@@ -1,16 +1,5 @@
-# COMP-1510-A2-Books
+# A Book Manager
 
-# Name: Maximilian Wu
+Search and move books around in the book library text file
 
-# Student Number: A01208571
-
-# List of functions in your program: 
-
-# books()
-# load_data()
-# menu()
-# quit_books()
-# move_book()
-# search_results_format()
-# search()
-# main()
+Maximilian Wu
